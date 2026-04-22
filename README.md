@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real+Systems;Cybersecurity+Mindset;Automation+%2B+AI;Minimal+Noise.+Maximum+Impact." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Real+AI+Systems;Cybersecurity+Mindset;Automation+%2B+AI;Minimal+Noise.+Maximum+Impact." />
 </p>
 
 <p align="center">
